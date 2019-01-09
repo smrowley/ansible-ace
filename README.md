@@ -11,7 +11,7 @@ Your playbook should do the following:
 - Opens the port in the firewall
 - Adds an index.html to `/var/www/html/`
 
-You'll know it works if you can go to `ace-<insult>.guy.sh`.
+You'll know it works if you can go to `ace-<fruit>.guy.sh`.
 
 BONUS:
 
